@@ -1,0 +1,8 @@
+build/
+dist/
+venv/
+*.pyc
+*.spec
+*.log
+*.ppsx
+wetransfer_ppsx_2024-02-13_0837.zip
